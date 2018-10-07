@@ -17,7 +17,7 @@ if(class_exists('RevSliderFront')) {
 	die('ERROR: It looks like you have more than one instance of Slider Revolution installed. Please remove additional instances for this plugin to work again.');
 }
 
-$revSliderVersion = "5.2.1";
+$revSliderVersion = "5.2";
 $revSliderAsTheme = false;
 $revslider_screens = array();
 
